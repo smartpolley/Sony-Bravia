@@ -1,8 +1,5 @@
 /**
- *  Sony TV Smartthings Integration, Currently testing on: KDL-55W829B
-
-Working on KDL-55W829B,
-
+ *  Sony TV Smartthings Integration, Currently testing on: KDL-55W829BWorking on KDL-55W829B,
  *
  *
  *
@@ -31,7 +28,7 @@ Working on KDL-55W829B,
  *  wake on lan wont yet update the status to on very quickly and status polls happen about every 5 mins so it maybe 5 mins before
  *  the TV shows as on.
  *
- */
+*/
 
 metadata {
   definition (name: "Sony Bravia TV", namespace: "steveAbratt", author: "Steve Bratt") {
